@@ -30,6 +30,6 @@ This project allows the user to:
 
 ## 👩‍💻 Author
 
-Developed by **Josiane Souza** as part of the *Intro to Web Programming using PHP* course project.
+Developed by [**Josiane Souza**](https://www.linkedin.com/in/josianesouza/) as part of the *Intro to Web Programming using PHP* course project.
 
 ---
